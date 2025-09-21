@@ -1,6 +1,6 @@
 # ☁️ Cloud Data Pipeline & Dashboard – NYC Taxi Data
 
-This repository is a **recruiter-friendly**, end-to-end cloud data pipeline example. It ingests raw taxi trip CSV files, transforms data, loads it to Postgres, and provides an interactive Streamlit dashboard.
+This repository is a end-to-end cloud data pipeline example. It ingests raw taxi trip CSV files, transforms data, loads it to Postgres, and provides an interactive Streamlit dashboard.
 
 ## What's included (ready-to-run)
 - `data/nyc_taxi_sample.csv` — sample dataset (small).
